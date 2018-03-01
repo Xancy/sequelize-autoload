@@ -1,6 +1,6 @@
 {
   "name": "sequelize-autoload",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Autoloader for SequelizeJS, inspired by PSR-0 and PSR-4.",
   "main": "index.js",
   "dependencies": {
@@ -19,12 +19,13 @@
   },
   "scripts": {
     "commit": "./node_modules/.bin/git-cz",
-    "release": "npx semantic-release",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "./node_modules/.bin/semantic-release",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boxsnake-nodejs/sequelize-autoload.git"
+    "url": "https://github.com/boxsnake-nodejs/sequelize-autoload.git"
   },
   "keywords": [
     "sequelize",
