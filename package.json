@@ -19,8 +19,6 @@
   },
   "scripts": {
     "commit": "./node_modules/.bin/git-cz",
-    "release": "./node_modules/.bin/semantic-release",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
   "repository": {
