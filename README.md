@@ -90,4 +90,4 @@ MIT
 [npm-sequelize-auto]: https://www.npmjs.com/package/sequelize-auto "Sequelize-auto"
 [doc-sequelize-example-usage]: http://docs.sequelizejs.com/#example-usage "Sequelize - Example Usage"
 [doc-sequelize-options]: http://docs.sequelizejs.com/manual/installation/usage.html#options "Sequelize - Options"
-[irc]: http://webchat.freenode.net/?channels=sequelize-autoload
+[irc]: http://webchat.freenode.net/?channels=sequelize-autoload "irc - #sequelize-autoload"
