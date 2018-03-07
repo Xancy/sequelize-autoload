@@ -73,7 +73,7 @@ MIT
 [badge-license]: https://img.shields.io/npm/l/sequelize-autoload.svg "License"
 [badge-commitizen-friendly]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg "Commitizen friendly"
 [badge-semantic-release]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg "semantic-release"
-[badge-gitter]: https://img.shields.io/gitter/room/nwjs/nw.js.svg "gitter"
+[badge-gitter]: https://img.shields.io/gitter/room/nwjs/nw.js.svg?logo=gitter-white "gitter"
 
 [icon-yes]: https://raw.githubusercontent.com/boxsnake-nodejs/sequelize-autoload/master/images/icon-yes.png
 [icon-no]: https://raw.githubusercontent.com/boxsnake-nodejs/sequelize-autoload/master/images/icon-no.png
